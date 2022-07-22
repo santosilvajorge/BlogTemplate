@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.0.1",
+    "express": "^4.18.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
@@ -39,5 +40,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- ✅ react-router-dom is updated\r - ✅ class components converted to functional components\r - ✅ components re-named",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santosilvajorge/BlogTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santosilvajorge/BlogTemplate/issues"
+  },
+  "homepage": "https://github.com/santosilvajorge/BlogTemplate#readme"
 }
